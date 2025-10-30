@@ -56,7 +56,7 @@ Based on the analysis, the following recommendations are proposed:
 - **Data-Driven Decisions:** Regularly monitor profit-to-discount ratios and customer trends to identify emerging sales opportunities.
 
 ##  Project Resources
-- [Download Global Superstore Dataset (CSV)](https://raw.githubusercontent.com/shazlanamirul8/Global-Superstore-Sales-Analysis-Dashboard/main/Sample-superstore.csv)
+- [Download Global Superstore Dataset (CSV)](Sample_Superstore.csv)
 - [Interactive Dashboard Demo (GIF)](the_dashboard2.gif)
 
 ## Key Skills Demonstrated
@@ -70,6 +70,6 @@ Based on the analysis, the following recommendations are proposed:
 Hi! I’m **Shazlan Amirul**, a Quality Assurance Analyst exploring the world of **Data Analytics and Business Intelligence**.  
 I’m passionate about transforming raw data into insights that drive decisions.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/shazlanamirulhasan/)) or check out more of my projects on [GitHub](https://github.com/shazlanamirul8).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/shazlanamirulhasan/) or check out more of my projects on [GitHub](https://github.com/shazlanamirul8).
 
 
