@@ -1,9 +1,6 @@
 # Global-Superstore-Sales-Analysis-Dashboard
 This project showcases my ability to use Power BI to transform raw sales data into meaningful business insights. Using the Global Superstore dataset, I analyzed global sales, profit, and customer trends across regions, product categories, and customer segments to identify key performance patterns and opportunities for business growth.
 
-### **Raw Data Link:**  
-[Download Global Superstore Dataset (CSV)](https://github.com/shazlanamirul8/Global-Superstore-Sales-Analysis-Dashboard/raw/main/Sample-superstore.csv)
-
 ### Transform Data
 There was minimal transformation required for the raw dataset.  
 I performed basic cleaning and added a few calculated columns in **Power Query** for better analysis and visualization.
@@ -26,9 +23,6 @@ These transformations ensure the dataset is structured for accurate time-series 
 
 # The Dashboard
 ![dashboard_1](dashboard_2.png)
-
-# Interactive GIF of the Dashboard
-![the_dashboard_demo](the_dashboard2.gif)
 
 ## Insights & Analysis
 
@@ -62,11 +56,8 @@ Based on the analysis, the following recommendations are proposed:
 - **Data-Driven Decisions:** Regularly monitor profit-to-discount ratios and customer trends to identify emerging sales opportunities.
 
 ##  Project Resources
-
-- [Power BI Dashboard (.pbix)](https://github.com/shazlanamirul8/Global-Superstore-Sales-Analysis-Dashboard/raw/main/GlobalSuperstoreDashboard.pbix)
-- [Raw Data (CSV)](https://github.com/shazlanamirul8/Global-Superstore-Sales-Analysis-Dashboard/raw/main/Sample-superstore.csv)
+- [Download Global Superstore Dataset (CSV)](https://raw.githubusercontent.com/shazlanamirul8/Global-Superstore-Sales-Analysis-Dashboard/main/Sample-superstore.csv)
 - [Interactive Dashboard Demo (GIF)](the_dashboard2.gif)
-
 
 ## Key Skills Demonstrated
 - **Data Cleaning & Transformation:** Power Query (data types, calculated columns, handling missing values)
@@ -79,6 +70,6 @@ Based on the analysis, the following recommendations are proposed:
 Hi! I’m **Shazlan Amirul**, a Quality Assurance Analyst exploring the world of **Data Analytics and Business Intelligence**.  
 I’m passionate about transforming raw data into insights that drive decisions.
 
-📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/shazlanamirulhasan/)) or check out more of my projects on [GitHub](https://github.com/shazlanamirul8).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/shazlanamirulhasan/)) or check out more of my projects on [GitHub](https://github.com/shazlanamirul8).
 
 
